@@ -12,7 +12,7 @@ import android.view.MenuItem;
 import android.widget.EditText;
 
 public class MyActivity extends AppCompatActivity {
-    public final static String EXTRA_MESSAGE = "com.clouds.myfirstapp.MESSAGE";
+    public final static String EXTRA_MESSAGE = "com.clouds.liyao.myfirstapp.MESSAGE";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
